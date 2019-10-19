@@ -1,0 +1,53 @@
+.Login_form{
+    position: absolute;
+    left: 50%;
+    top: 56%;
+    transform: translate(-50%, -50%);
+    
+
+}
+.Register_form{
+    position: absolute;
+    left: 50%;
+    top: 63%;
+    transform: translate(-50%, -50%);
+}
+#welcome_header{
+    position: absolute;
+    left: 20%;
+    top: 15%;
+    
+}
+
+#login_register_header{
+    color: white;
+    position: absolute;
+    font-size: 30px;
+    left: 40%;
+    top: 30%;
+}
+.footer_login{
+    position: absolute;
+    top: 90%;
+    left: 30%;
+    text-align: center;
+}
+#forgot_pass{
+    position: absolute;
+    left: 50%;
+    top: 92%;
+}
+.login_button{
+    position: absolute;
+    top: 108%;
+    left: 33%;
+}
+.signup_button{
+    position: absolute;
+    top: 100%;
+    left: 25%;
+}
+#reduce_gap{
+    margin: -10px 0px 0px 0px;
+    padding: -10px 0px 0px 0px;
+}
